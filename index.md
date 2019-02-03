@@ -1,7 +1,7 @@
 # Welcome to Projects HomePage
 
 ## Machine learning projects:
-[Naive-Bayes Classifier](https://github.com/RoopamSharma/naive-bayes)  
+[Naive-Bayes Classifier](https://github.com/RoopamSharma/naive-bayes)<br> 
 [Knn, Centroid, Linear, SVM classifiers](https://github.com/RoopamSharma/ClassificationML)
 
 
@@ -10,10 +10,10 @@
 
 
 ## Web development
-[Restaurant Finder](https://github.com/RoopamSharma/restaurant-finder)_
-[Movies Finder](https://github.com/RoopamSharma/moviefinder)_
-[Pong game](https://github.com/RoopamSharma/Javascript/tree/master/pong)_
-[Google chrome extension](https://github.com/RoopamSharma/search-extension)_
+[Restaurant Finder](https://github.com/RoopamSharma/restaurant-finder)<br>
+[Movies Finder](https://github.com/RoopamSharma/moviefinder)<br>
+[Pong game](https://github.com/RoopamSharma/Javascript/tree/master/pong)<br>
+[Google chrome extension](https://github.com/RoopamSharma/search-extension)<br>
 [Floooring Content Management Website](https://github.com/RoopamSharma/easyflooring)
 
 

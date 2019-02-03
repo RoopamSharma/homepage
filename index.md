@@ -2,11 +2,13 @@
 
 ## Machine learning projects:
 [Naive-Bayes Classifier](https://github.com/RoopamSharma/naive-bayes)<br> 
-[Knn, Centroid, Linear, SVM classifiers](https://github.com/RoopamSharma/ClassificationML)
+[Knn, Centroid, Linear, SVM classifiers](https://github.com/RoopamSharma/ClassificationML)<br>
+[K-means clustering](https://github.com/RoopamSharma/k-means)
 
 
-## Neural Network project:
-[Convolutional Neural Network](https://github.com/RoopamSharma/cnn-cifar10)
+## Neural Network project: 
+[Convolutional Neural Network](https://github.com/RoopamSharma/cnn-cifar10)<br>
+[Perceptron](https://github.com/RoopamSharma/Neural-networks/tree/master/Perceptron)
 
 
 ## Web development
@@ -23,3 +25,9 @@
 
 ## JAVA and SQL
 [Car Rental](https://github.com/RoopamSharma/CarRental)
+
+## Android
+[Catering Management System](https://github.com/vikram-tandon-4/CateringManagementSystem/tree/master/CateringSystem)
+
+## Artificial Intelligence
+[Various problems](https://github.com/RoopamSharma/ArtificialIntelligence)

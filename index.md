@@ -1,7 +1,7 @@
 # Welcome to Projects HomePage
 
 ## Machine learning projects:
-[Naive-Bayes Classifier](https://github.com/RoopamSharma/naive-bayes)_
+[Naive-Bayes Classifier](https://github.com/RoopamSharma/naive-bayes)  
 [Knn, Centroid, Linear, SVM classifiers](https://github.com/RoopamSharma/ClassificationML)
 
 

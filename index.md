@@ -6,7 +6,7 @@
 [K-means clustering](https://github.com/RoopamSharma/k-means)
 
 
-## Neural Networks: (Python, tensorflow
+## Neural Networks: (Python, tensorflow, pandas, numpy)
 [Convolutional Neural Network](https://github.com/RoopamSharma/cnn-cifar10)<br>
 [Perceptron](https://github.com/RoopamSharma/Neural-networks/tree/master/Perceptron)
 

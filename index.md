@@ -21,5 +21,5 @@
 ## Other:
 [Student management](https://github.com/RoopamSharma/student_management) (C++)<br>
 [Car Rental](https://github.com/RoopamSharma/CarRental) (Java, Swing, MySQL)<br>
-[Catering Management System](https://github.com/vikram-tandon-4/CateringManagementSystem/tree/master/CateringSystem) (Android, Java, SQLite)<br>
+[Catering Management System](https://github.com/vikram-tandon-4/CateringManagementSystem) (Android, Java, SQLite)<br>
 [Various problems](https://github.com/RoopamSharma/ArtificialIntelligence) (Python)<br>

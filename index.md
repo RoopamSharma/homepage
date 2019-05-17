@@ -5,8 +5,8 @@
 [Parking System client](https://github.com/RoopamSharma/client-parkingchain) 
 
 ## Web based:
-[Restaurant Finder](https://github.com/RoopamSharma/restaurant-finder) (JavaScript, PHP, AJAX, JSON)<br>
-[Movies Finder](https://github.com/RoopamSharma/moviefinder) (JavaScript, PHP, AJAX, JSON)<br>
+[Restaurant Finder](https://github.com/RoopamSharma/restaurant-finder) (JavaScript, AJAX, JSON)<br>
+[Movies Finder](https://github.com/RoopamSharma/moviefinder) (JavaScript, AJAX, JSON)<br>
 [Pong game](https://github.com/RoopamSharma/Javascript/tree/master/pong) (JavaScript)<br>
 [Google chrome extension](https://github.com/RoopamSharma/search-extension) (JavaScript, AJAX)<br>
 [Floooring Content Management Website](https://github.com/RoopamSharma/easyflooring) (JavaScript, PHP, AJAX, JSON)<br>
